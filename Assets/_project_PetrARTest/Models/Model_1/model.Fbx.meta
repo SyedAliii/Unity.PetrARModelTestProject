@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: d32ea97fe24cc584aa5082a0d88daa21
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -7881739814215078984
+    second: 0_T-Pose
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_0_Pbr
+    second: {fileID: 2100000, guid: 66e419ae29c24a14b9c85c8782e77fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_1_Pbr
+    second: {fileID: 2100000, guid: 260562ad0db61f44aa53b0304645551c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_Pbr
+    second: {fileID: 2100000, guid: 783c167a99d92944ba676887647260af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boot_Pbr
+    second: {fileID: 2100000, guid: e7cc61cff29287243862d0f4df90b97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bun_Transparency_Pbr
+    second: {fileID: 2100000, guid: a31e4b85c805c384897b634240463160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea_Pbr
+    second: {fileID: 2100000, guid: 9d6e520c83e424b46b91fe16352aa075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeMoisture_Pbr
+    second: {fileID: 2100000, guid: 37ae1b7ab942e1f4f84274b4975e5e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Irises_Pbr
+    second: {fileID: 2100000, guid: 2bf70086568e61a40ae620368a2508ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kleats_Pbr
+    second: {fileID: 2100000, guid: f9aa99a84cc76ac4a96b9e06dbf355f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laces_Pbr
+    second: {fileID: 2100000, guid: a013248303155eb4b82ebfd912e2dd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth_Pbr
+    second: {fileID: 2100000, guid: 62b6d7400a9e3b84d823e564be11ca18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PonyFine_Transparency_Pbr
+    second: {fileID: 2100000, guid: 77ec9ed268a07824780b6b4fa265d5df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pony_Transparency_Pbr
+    second: {fileID: 2100000, guid: fd226991de723b645a084194212a295a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PullFine_Transparency_Pbr
+    second: {fileID: 2100000, guid: 65a4edc7fe1d27146ac6634e1d580639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PullFull_Transparency_Pbr
+    second: {fileID: 2100000, guid: 65f21ca6aaf156044ade69c5fd70b378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PullSingles_Transparency_Pbr
+    second: {fileID: 2100000, guid: e2b154956eeeca24c83f67f542cb934f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PullTiny_Transparency_Pbr
+    second: {fileID: 2100000, guid: 0ea6f56f64e95be479abe11ca5a32171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupils_Pbr
+    second: {fileID: 2100000, guid: 65f46ef890612f74db98ac8dcefd1d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scalp_Transparency_Pbr
+    second: {fileID: 2100000, guid: e6b82776bef398241baeace0080bf408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sclera_Pbr
+    second: {fileID: 2100000, guid: 353cff734b70ddf4fac540691baafc7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shaved_Transparency_Pbr
+    second: {fileID: 2100000, guid: cb2e11bedc575f642a955c00ac949a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Short_10_Tra
+    second: {fileID: 2100000, guid: 56453ad2071d9a94dbe7b415572c8ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Socks_10_Tra
+    second: {fileID: 2100000, guid: a1c295c9a3db55b41a0b8ab1ac59280c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sole_Pbr
+    second: {fileID: 2100000, guid: 77773cdec9f23db43aaedac2372043dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Eyelash_Pbr
+    second: {fileID: 2100000, guid: 348bcad89ff22834cafcc7eee0e1bc38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Nails_Pbr
+    second: {fileID: 2100000, guid: 65893f3dbedc0e54e98ee12106b97819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Arm_Pbr
+    second: {fileID: 2100000, guid: 2a13888a3eb15cd45a607577a651a920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Head_Pbr
+    second: {fileID: 2100000, guid: 5251b85e72b21c546a76a86c41b1e0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Leg_Pbr
+    second: {fileID: 2100000, guid: 6212fdb00e64ae74b820b33cbadc25a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Std_Tongue_Pbr
+    second: {fileID: 2100000, guid: 5e667c5a18b883441958b73b651ff2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_shirt_10_Tra
+    second: {fileID: 2100000, guid: a8751b1a0a7b3ab4ab59c1f63d88c13f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth_Pbr
+    second: {fileID: 2100000, guid: 392aef4b42dcd33439c03f9a194a79a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tie_Transparency_Pbr
+    second: {fileID: 2100000, guid: 84a43f9bcf4921945890a85507aeb3d5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_0_Pbr_Diffuse
+    second: {fileID: 2800000, guid: c854e5c9da6d7cd4c8f3fe7993576633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_1_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 6de5a01519bb4fd47aa3bcdc02ae064c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beard_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 596f0e892f6925649a745f841665d801, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boot_Pbr_Diffuse
+    second: {fileID: 2800000, guid: ebf3ba737da09474bb7856dcf0d75989, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bun_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: d91e8098777bce744a2f4cdded586f9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Irises_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 612214cff078e814c83853dbd636971d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kleats_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 6b27045a48a3f7b448111aa48be91115, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Laces_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 05d17297ee41a8444a72ee1639ec344b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mouth_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 94bd81d395da4a943bb26cd522200c78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PonyFine_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: fd118c69122d0b8498b705d5ed1e5221, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pony_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: c7e8723c6b6201c41919bd0d3b48928b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PullFine_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 330f0521436da4e4a8240ec0edb3d865, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PullFull_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 40d4129a7bec3ac4cac90a35bc70aeca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PullSingles_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 04017779e2da890409c57b1fc0beef86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PullTiny_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 2b8b8b83679c73948b5600522a8d2077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pupils_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 06711b55eda815d40bb7232a6c484026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scalp_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 3823698df7f7e3d42915b90febc5d4f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sclera_Pbr_Diffuse
+    second: {fileID: 2800000, guid: c8676857c0da5174fa5cd15f14aa8e19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shaved_Transparency_Pbr_Diffuse
+    second: {fileID: 2800000, guid: e1f471a47a7d86d47841ed6d572f961f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shirt_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 98007d02dc24255498ecc874d7e7fde4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Short_10_Tra_Diffuse
+    second: {fileID: 2800000, guid: 09d32087ca3ff9c40806c5054c8550ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Socks_10_Tra_Diffuse
+    second: {fileID: 2800000, guid: 2bed65d48a7e8d34880499fc33a7f4e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sole_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 096983a9bd7254f48b5286a4549c302d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Eyelash_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 15480709f1aa21544bc81a6961c47256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Nails_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 928134f23d2b22c409df6cc6aecf9d7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Arm_Pbr_Diffuse
+    second: {fileID: 2800000, guid: cbbf674e8b248d64fb9f55964aba728b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Body_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 5071d7c17df5bbf459f45e4a75e17054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Head_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 58732bde6ab69cc4fa76bb94c12a72e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Skin_Leg_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 9e67b928b6ded4845a737dfd16b3dfb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Tongue_Pbr_Diffuse
+    second: {fileID: 2800000, guid: 23bc849de847f97498241f3ae6a1d3cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Std_Tongue_Pbr_Normal
+    second: {fileID: 2800000, guid: 64b950716759ae04e9fc3c9381b3dd9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_shirt_10_Tra_Diffuse
+    second: {fileID: 2800000, guid: 072e525029293884d9b8ba32bc29aab5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Teeth_Pbr_Diffuse
+    second: {fileID: 2800000, guid: b820fda496ac6ad479763025a4602329, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
